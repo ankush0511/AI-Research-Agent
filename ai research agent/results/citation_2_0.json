@@ -1,0 +1,4570 @@
+{
+  "search_metadata": {
+    "id": "684e794ac83b3f42b5cea0c2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b784ea6bac74133c/684e794ac83b3f42b5cea0c2.json",
+    "created_at": "2025-06-15 07:42:02 UTC",
+    "processed_at": "2025-06-15 07:42:02 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20080268327A1/en",
+    "raw_html_file": "https://serpapi.com/searches/b784ea6bac74133c/684e794ac83b3f42b5cea0c2.html",
+    "total_time_taken": 1.4
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20080268327A1/en"
+  },
+  "title": "Advanced Metal-Air Battery Having a Ceramic Membrane Electrolyte Background of the Invention",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/34/3c/18/9eb645783c5a12/US20080268327A1.pdf",
+  "publication_number": "US20080268327A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "alkali",
+    "metal",
+    "air",
+    "battery",
+    "metal ions"
+  ],
+  "prior_art_date": "2006-10-13",
+  "application_number": "US11/871,824",
+  "inventors": [
+    {
+      "name": "John Howard Gordon",
+      "link": "https://patents.google.com/?inventor=John+Howard+Gordon",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=John+Howard+Gordon"
+    },
+    {
+      "name": "Shekar Balagopal",
+      "link": "https://patents.google.com/?inventor=Shekar+Balagopal",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Shekar+Balagopal"
+    },
+    {
+      "name": "Sai Bhavaraju",
+      "link": "https://patents.google.com/?inventor=Sai+Bhavaraju",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Sai+Bhavaraju"
+    },
+    {
+      "name": "John Joseph Watkins",
+      "link": "https://patents.google.com/?inventor=John+Joseph+Watkins",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=John+Joseph+Watkins"
+    }
+  ],
+  "assignees": [
+    "Field Upgrading USA Inc"
+  ],
+  "priority_date": "2006-10-13",
+  "filing_date": "2007-10-12",
+  "publication_date": "2008-10-30",
+  "worldwide_applications": {
+    "2007": [
+      {
+        "filing_date": "2007-10-12",
+        "country_code": "WO",
+        "application_number": "PCT/US2007/021978",
+        "document_id": "patent/WO2008133642A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      },
+      {
+        "filing_date": "2007-10-12",
+        "country_code": "US",
+        "application_number": "US11/871,824",
+        "document_id": "patent/US8012633B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2007-10-12",
+        "country_code": "EP",
+        "application_number": "EP07874081.8A",
+        "document_id": "patent/EP2087540A4/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2007-10-12",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2007-10-12",
+      "title": "Priority to US11/871,824",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US8012633B2/en"
+    },
+    {
+      "date": "2008-10-30",
+      "title": "Publication of US20080268327A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20080268327A1/en"
+    },
+    {
+      "date": "2009-05-11",
+      "title": "Assigned to CERAMATEC, INC.",
+      "type": "reassignment",
+      "assignee_search": "CERAMATEC, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: GORDON, JOHN HOWARD, BALAGOPAL, SHEKAR, BHAVARAJU, SAI, WATKINS, JOHN JOSEPH"
+      ]
+    },
+    {
+      "date": "2011-09-06",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2011-09-06",
+      "title": "Publication of US8012633B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US8012633B2/en"
+    },
+    {
+      "date": "2017-09-12",
+      "title": "Assigned to FIELD UPGRADING USA, INC.",
+      "type": "reassignment",
+      "assignee_search": "FIELD UPGRADING USA, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CERAMATEC, INC."
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2029-12-31",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20080268327.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11871824"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20080268327"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2008268327A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11871824/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20080268327"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/30/d7/93/5b391a39ad1c14/US20080268327A1-20081030-D00000.png",
+    "https://patentimages.storage.googleapis.com/96/f9/06/87f8e3aebee947/US20080268327A1-20081030-D00001.png",
+    "https://patentimages.storage.googleapis.com/7f/f0/0b/53d41ee38fa462/US20080268327A1-20081030-D00002.png",
+    "https://patentimages.storage.googleapis.com/d6/20/b3/aa0bca24e42cb7/US20080268327A1-20081030-D00003.png",
+    "https://patentimages.storage.googleapis.com/d8/93/04/1bf6a5ac8852ff/US20080268327A1-20081030-D00004.png",
+    "https://patentimages.storage.googleapis.com/5b/66/8c/bb28680f72633a/US20080268327A1-20081030-D00005.png"
+  ],
+  "classifications": [
+    {
+      "code": "H01M12/06",
+      "description": "Hybrid cells; Manufacture thereof composed of a half-cell of the fuel-cell type and of a half-cell of the primary-cell type with one metallic and one gaseous electrode",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M12/02",
+      "description": "Details",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M12/08",
+      "description": "Hybrid cells; Manufacture thereof composed of a half-cell of a fuel-cell type and a half-cell of the secondary-cell type",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/40",
+      "description": "Alloys based on alkali metals",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/434",
+      "description": "Ceramics",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M50/46",
+      "description": "Separators, membranes or diaphragms characterised by their combination with electrodes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0002",
+      "description": "Aqueous electrolytes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0017",
+      "description": "Non-aqueous electrolytes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0068",
+      "description": "Solid electrolytes inorganic",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0094",
+      "description": "Composites in the form of layered products, e.g. coatings",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A metal-air battery is disclosed in one embodiment of the invention as including a cathode to reduce oxygen molecules and an alkali-metal-containing anode to oxidize the alkali metal (e.g., Li, Na, and K) contained therein to produce alkali-metal ions. An aqueous catholyte is placed in ionic communication with the cathode to store reaction products generated by reacting the alkali-metal ions with the oxygen containing anions. These reaction products are stored as solutes dissolved in the aqueous catholyte. An ion-selective membrane is interposed between the alkali-metal containing anode and the aqueous catholyte. The ion-selective membrane is designed to be conductive to the alkali-metal ions while being impermeable to the aqueous catholyte.",
+  "description_link": "https://serpapi.com/searches/684e794ac83b3f42b5cea0c2/google_patents_details/description.html",
+  "claims": [
+    "1. An air-metal battery comprising:\na cathode to reduce oxygen molecules; an alkali-metal-containing anode to oxidize the alkali metal to produce alkali-metal ions; an aqueous catholyte in ionic communication with the cathode; a ion-selective membrane interposed between the alkali-metal containing anode and the aqueous catholyte, the ion-selective membrane being conductive to the alkali-metal ions while being impermeable to the aqueous catholyte.",
+    "2. The air-metal battery of claim 1, further comprising an anolyte interposed between the alkali-metal-containing anode and the ion-selective membrane to conduct the alkali-metal ions.",
+    "3. The air-metal battery of claim 2, wherein the ion-selective membrane comprises a dense layer, impermeable to the aqueous catholyte, sandwiched between porous layers.",
+    "4. The air-metal battery of claim 3, wherein the porous layers provide strength and rigidity to the dense layer.",
+    "5. The air-metal battery of claim 3, wherein the porous layers are infiltrated with the anolyte and catholyte, respectively.",
+    "6. The air-metal battery of claim 1, wherein the cathode comprises a gas-diffusion layer that is hydrophobic but permeable to oxygen, and a reaction layer to reduce the oxygen.",
+    "7. The air-metal battery of claim 6, wherein the reaction layer comprises a catalyst to at least one of reduce oxygen and produce oxygen when recharging the battery.",
+    "8. The air-metal battery of claim 7, wherein the catalyst comprises a perovskite-type compound.",
+    "9. The air-metal battery of claim 7, wherein the catalyst comprises manganese, cobalt or oxides thereof.",
+    "10. The air-metal battery of claim 1, wherein the alkali metal comprises at least one of Li, Na, and K.",
+    "11. The air-metal battery of claim 1, wherein the ion-selective membrane comprises at least one of LiSICON and NaSICON.",
+    "12. The air-metal battery of claim 1, wherein the aqueous catholyte is a separator material soaked in an aqueous catholyte solution.",
+    "13. A method comprising:\ngenerating alkali-metal ions at an anode; transporting the alkali-metal ions through an ion-selective membrane that is impermeable to water; transporting the alkali-metal ions through an aqueous catholyte solution; reacting the alkali-metal ions with oxygen containing anions generated at a cathode to produce a reaction product; and storing the reaction product as a solute dissolved in the aqueous catholyte solution.",
+    "14. The method of claim 13, further comprising transporting the alkali-metal ions through an anolyte interposed between the anode and the ion-selective membrane.",
+    "15. The method of claim 14, wherein transporting the alkali-metal ions through an ion-selective membrane comprises transporting the alkali-metal ions through a dense layer, impermeable to the aqueous catholyte, sandwiched between porous layers.",
+    "16. The method of claim 15, wherein the porous layers provide strength and rigidity to the dense layer.",
+    "17. The method of claim 15, wherein the porous layers are infiltrated with the anolyte and catholyte, respectively.",
+    "18. The method of claim 13, wherein the cathode comprises a gas-diffusion layer that is hydrophobic but permeable to oxygen, and a reaction layer to reduce the oxygen to produce the oxygen containing anions.",
+    "19. The method of claim 18, further comprising infiltrating the reaction layer with a catalyst to aid in reducing the oxygen.",
+    "20. The method of claim 19, wherein the catalyst comprises a perovskite-type compound.",
+    "21. The method of claim 19, wherein the catalyst comprises manganese, cobalt or oxides thereof.",
+    "22. The method of claim 13, wherein the alkali-metal ions comprise at least one of Li, Na, and K ions.",
+    "23. The method of claim 13, wherein the ion-selective membrane comprises at least one of LiSICON and NaSICON.",
+    "24. The method of claim 13, wherein transporting the alkali-metal ions through an aqueous catholyte solution comprises transporting the alkali-metal ions through a separator material soaked in an aqueous catholyte solution.",
+    "25. An air-metal battery comprising:\na cathode to reduce oxygen molecules to produce oxygen containing anions; an alkali-metal-containing anode to oxidize the alkali metal contained therein to produce alkali-metal ions; a catholyte solution in ionic communication with the cathode to conduct the alkali-metal ions and store, in the form of a dissolved solute, a reaction product produced by reacting the oxygen containing anions with the alkali-metal ions; an ion-selective membrane interposed between the alkali-metal containing anode and the catholyte solution, the ion-selective membrane being conductive to the alkali-metal ions while being impermeable to the catholyte solution."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/871,824",
+      "representative_publication": "US8012633B2",
+      "primary_language": "en",
+      "priority_date": "2006-10-13",
+      "filing_date": "2007-10-12",
+      "title": "Advanced metal-air battery having a ceramic membrane electrolyte"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US82949906P",
+      "priority_date": "2006-10-13",
+      "filing_date": "2006-10-13"
+    },
+    {
+      "application_number": "US11/871,824",
+      "representative_publication": "US8012633B2",
+      "primary_language": "en",
+      "priority_date": "2006-10-13",
+      "filing_date": "2007-10-12",
+      "title": "Advanced metal-air battery having a ceramic membrane electrolyte"
+    }
+  ],
+  "family_id": "39887380",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US1501756A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1922-08-18",
+        "publication_date": "1924-07-15",
+        "assignee_original": "Roessler & Hasslacher Chemical",
+        "title": "Electrolytic process and cell",
+        "patent_id": "patent/US1501756A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1501756A%2Fen"
+      },
+      {
+        "publication_number": "US3660170A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1970-04-08",
+        "publication_date": "1972-05-02",
+        "assignee_original": "Gen Electric",
+        "title": "Dendrite-inhibiting additive for battery cell having zinc electrode",
+        "patent_id": "patent/US3660170A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3660170A%2Fen"
+      },
+      {
+        "publication_number": "US3785965A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1971-10-28",
+        "publication_date": "1974-01-15",
+        "assignee_original": "Exxon Research Engineering Co",
+        "title": "Process for the desulfurization of petroleum oil fractions",
+        "patent_id": "patent/US3785965A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3785965A%2Fen"
+      },
+      {
+        "publication_number": "US3787315A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-06-01",
+        "publication_date": "1974-01-22",
+        "assignee_original": "Exxon Research Engineering Co",
+        "title": "Alkali metal desulfurization process for petroleum oil stocks using low pressure hydrogen",
+        "patent_id": "patent/US3787315A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3787315A%2Fen"
+      },
+      {
+        "publication_number": "US3788978A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-05-24",
+        "publication_date": "1974-01-29",
+        "assignee_original": "Exxon Research Engineering Co",
+        "title": "Process for the desulfurization of petroleum oil stocks",
+        "patent_id": "patent/US3788978A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3788978A%2Fen"
+      },
+      {
+        "publication_number": "US3791966A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-05-24",
+        "publication_date": "1974-02-12",
+        "assignee_original": "Exxon Research Engineering Co",
+        "title": "Alkali metal desulfurization process for petroleum oil stocks",
+        "patent_id": "patent/US3791966A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3791966A%2Fen"
+      },
+      {
+        "publication_number": "US3970472A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1975-07-08",
+        "publication_date": "1976-07-20",
+        "assignee_original": "Mcgraw-Edison Company",
+        "title": "Rechargeable battery with zinc negative and dendrite barrier",
+        "patent_id": "patent/US3970472A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3970472A%2Fen"
+      },
+      {
+        "publication_number": "US4053371A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-06-01",
+        "publication_date": "1977-10-11",
+        "assignee_original": "The Dow Chemical Company",
+        "title": "Cellular metal by electrolysis",
+        "patent_id": "patent/US4053371A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4053371A%2Fen"
+      },
+      {
+        "publication_number": "US4076613A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1975-04-28",
+        "publication_date": "1978-02-28",
+        "assignee_original": "Exxon Research & Engineering Co.",
+        "title": "Combined disulfurization and conversion with alkali metals",
+        "patent_id": "patent/US4076613A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4076613A%2Fen"
+      },
+      {
+        "publication_number": "US4207391A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-07-25",
+        "publication_date": "1980-06-10",
+        "assignee_original": "El-Chem Corporation",
+        "title": "Rechargeable electrical storage battery with zinc anode and aqueous alkaline electrolyte",
+        "patent_id": "patent/US4207391A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4207391A%2Fen"
+      },
+      {
+        "publication_number": "US4298666A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-02-27",
+        "publication_date": "1981-11-03",
+        "assignee_original": "Celanese Corporation",
+        "title": "Coated open-celled microporous membranes",
+        "patent_id": "patent/US4298666A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4298666A%2Fen"
+      },
+      {
+        "publication_number": "US4307164A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-07-25",
+        "publication_date": "1981-12-22",
+        "assignee_original": "El-Chem Corporation",
+        "title": "Rechargeable electrical storage battery with zinc anode and aqueous alkaline electrolyte",
+        "patent_id": "patent/US4307164A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4307164A%2Fen"
+      },
+      {
+        "publication_number": "US4327823A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-05-11",
+        "publication_date": "1982-05-04",
+        "assignee_original": "Skf Kugellagerfabriken Gmbh",
+        "title": "Clutch release device",
+        "patent_id": "patent/US4327823A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4327823A%2Fen"
+      },
+      {
+        "publication_number": "US4372823A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-12-06",
+        "publication_date": "1983-02-08",
+        "assignee_original": "El-Chem Corporation",
+        "title": "Rechargeable electrical storage battery with zinc anode and aqueous alkaline electrolyte",
+        "patent_id": "patent/US4372823A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4372823A%2Fen"
+      },
+      {
+        "publication_number": "US4479856A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-08-09",
+        "publication_date": "1984-10-30",
+        "assignee_original": "Meidensha Electric Mfg. Co., Ltd.",
+        "title": "Zinc dendrite inhibitor",
+        "patent_id": "patent/US4479856A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4479856A%2Fen"
+      },
+      {
+        "publication_number": "US4542444A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-12-27",
+        "publication_date": "1985-09-17",
+        "assignee_original": "The Standard Oil Company",
+        "title": "Double layer energy storage device",
+        "patent_id": "patent/US4542444A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4542444A%2Fen"
+      },
+      {
+        "publication_number": "US4623597A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-04-28",
+        "publication_date": "1986-11-18",
+        "assignee_original": "Energy Conversion Devices, Inc.",
+        "title": "Rechargeable battery and electrode used therein",
+        "patent_id": "patent/US4623597A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4623597A%2Fen"
+      },
+      {
+        "publication_number": "US4842963A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-06-21",
+        "publication_date": "1989-06-27",
+        "assignee_original": "The United States Of America As Represented By The United States Department Of Energy",
+        "title": "Zinc electrode and rechargeable zinc-air battery",
+        "patent_id": "patent/US4842963A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4842963A%2Fen"
+      },
+      {
+        "publication_number": "US5057206A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-08-25",
+        "publication_date": "1991-10-15",
+        "assignee_original": "Uop",
+        "title": "Process for the production of white oils",
+        "patent_id": "patent/US5057206A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5057206A%2Fen"
+      },
+      {
+        "publication_number": "US5213908A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-09-26",
+        "publication_date": "1993-05-25",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of The National Aeronautics And Space Administration",
+        "title": "Alkali metal carbon dioxide electrochemical system for energy storage and/or conversion of carbon dioxide to oxygen",
+        "patent_id": "patent/US5213908A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5213908A%2Fen"
+      },
+      {
+        "publication_number": "US5290405A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-05-24",
+        "publication_date": "1994-03-01",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "NaOH production from ceramic electrolytic cell",
+        "patent_id": "patent/US5290405A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5290405A%2Fen"
+      },
+      {
+        "publication_number": "US5516598A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-07-28",
+        "publication_date": "1996-05-14",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Secondary cell using organosulfur/metal charge transfer materials as positive electrode",
+        "patent_id": "patent/US5516598A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5516598A%2Fen"
+      },
+      {
+        "publication_number": "US5695632A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-05-02",
+        "publication_date": "1997-12-09",
+        "assignee_original": "Exxon Research And Engineering Company",
+        "title": "Continuous in-situ combination process for upgrading heavy oil",
+        "patent_id": "patent/US5695632A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5695632A%2Fen"
+      },
+      {
+        "publication_number": "US5780186A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-09",
+        "publication_date": "1998-07-14",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of The National Aeronautics And Space Administration",
+        "title": "High performance zinc anode for battery applications",
+        "patent_id": "patent/US5780186A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5780186A%2Fen"
+      },
+      {
+        "publication_number": "US5856047A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-31",
+        "publication_date": "1999-01-05",
+        "assignee_original": "Ovonic Battery Company, Inc.",
+        "title": "High power nickel-metal hydride batteries and high power electrodes for use therein",
+        "patent_id": "patent/US5856047A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5856047A%2Fen"
+      },
+      {
+        "publication_number": "US5882812A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-14",
+        "publication_date": "1999-03-16",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Overcharge protection systems for rechargeable batteries",
+        "patent_id": "patent/US5882812A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5882812A%2Fen"
+      },
+      {
+        "publication_number": "US5935421A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-05-02",
+        "publication_date": "1999-08-10",
+        "assignee_original": "Exxon Research And Engineering Company",
+        "title": "Continuous in-situ combination process for upgrading heavy oil",
+        "patent_id": "patent/US5935421A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5935421A%2Fen"
+      },
+      {
+        "publication_number": "US6017651A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-11-23",
+        "publication_date": "2000-01-25",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Methods and reagents for enhancing the cycling efficiency of lithium polymer batteries",
+        "patent_id": "patent/US6017651A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6017651A%2Fen"
+      },
+      {
+        "publication_number": "US6025094A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-11-23",
+        "publication_date": "2000-02-15",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Protective coatings for negative electrodes",
+        "patent_id": "patent/US6025094A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6025094A%2Fen"
+      },
+      {
+        "publication_number": "US6030720A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-11-23",
+        "publication_date": "2000-02-29",
+        "assignee_original": "Polyplus Battery Co., Inc.",
+        "title": "Liquid electrolyte lithium-sulfur batteries",
+        "patent_id": "patent/US6030720A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6030720A%2Fen"
+      },
+      {
+        "publication_number": "US6110236A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-11",
+        "publication_date": "2000-08-29",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Method of preparing electrodes having evenly distributed component mixtures",
+        "patent_id": "patent/US6110236A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6110236A%2Fen"
+      },
+      {
+        "publication_number": "US6153328A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-24",
+        "publication_date": "2000-11-28",
+        "assignee_original": "Metallic Power, Inc.",
+        "title": "System and method for preventing the formation of dendrites in a metal/air fuel cell, battery or metal recovery apparatus",
+        "patent_id": "patent/US6153328A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6153328A%2Fen"
+      },
+      {
+        "publication_number": "US6159634A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-15",
+        "publication_date": "2000-12-12",
+        "assignee_original": "Duracell Inc.",
+        "title": "Battery separator",
+        "patent_id": "patent/US6159634A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6159634A%2Fen"
+      },
+      {
+        "publication_number": "US6200704B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-01",
+        "publication_date": "2001-03-13",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "High capacity/high discharge rate rechargeable positive electrode",
+        "patent_id": "patent/US6200704B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6200704B1%2Fen"
+      },
+      {
+        "publication_number": "US6210832B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-01",
+        "publication_date": "2001-04-03",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Mixed ionic electronic conductor coatings for redox electrodes",
+        "patent_id": "patent/US6210832B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6210832B1%2Fen"
+      },
+      {
+        "publication_number": "US6210564B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-06-04",
+        "publication_date": "2001-04-03",
+        "assignee_original": "Exxon Research And Engineering Company",
+        "title": "Process for desulfurization of petroleum feeds utilizing sodium metal",
+        "patent_id": "patent/US6210564B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6210564B1%2Fen"
+      },
+      {
+        "publication_number": "US6214061B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-01",
+        "publication_date": "2001-04-10",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Method for forming encapsulated lithium electrodes having glass protective layers",
+        "patent_id": "patent/US6214061B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6214061B1%2Fen"
+      },
+      {
+        "publication_number": "US6225002B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-02-05",
+        "publication_date": "2001-05-01",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Dioxolane as a proctector for lithium electrodes",
+        "patent_id": "patent/US6225002B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6225002B1%2Fen"
+      },
+      {
+        "publication_number": "US6248476B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-18",
+        "publication_date": "2001-06-19",
+        "assignee_original": "Fajiong Sun",
+        "title": "Metal air cathode and electrochemical cells made therewith",
+        "patent_id": "patent/US6248476B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6248476B1%2Fen"
+      },
+      {
+        "publication_number": "US6265100B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-02-23",
+        "publication_date": "2001-07-24",
+        "assignee_original": "Research International, Inc.",
+        "title": "Rechargeable battery",
+        "patent_id": "patent/US6265100B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6265100B1%2Fen"
+      },
+      {
+        "publication_number": "US6291090B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-17",
+        "publication_date": "2001-09-18",
+        "assignee_original": "Aer Energy Resources, Inc.",
+        "title": "Method for making metal-air electrode with water soluble catalyst precursors",
+        "patent_id": "patent/US6291090B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6291090B1%2Fen"
+      },
+      {
+        "publication_number": "US6358643B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-11-23",
+        "publication_date": "2002-03-19",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Liquid electrolyte lithium-sulfur batteries",
+        "patent_id": "patent/US6358643B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6358643B1%2Fen"
+      },
+      {
+        "publication_number": "US6368486B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-28",
+        "publication_date": "2002-04-09",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Low temperature alkali metal electrolysis",
+        "patent_id": "patent/US6368486B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6368486B1%2Fen"
+      },
+      {
+        "publication_number": "US6402795B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-02-18",
+        "publication_date": "2002-06-11",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Plating metal negative electrodes under protective coatings",
+        "patent_id": "patent/US6402795B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6402795B1%2Fen"
+      },
+      {
+        "publication_number": "US6413284B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-01",
+        "publication_date": "2002-07-02",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Encapsulated lithium alloy electrodes having barrier layers",
+        "patent_id": "patent/US6413284B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6413284B1%2Fen"
+      },
+      {
+        "publication_number": "US6413285B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-01",
+        "publication_date": "2002-07-02",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Layered arrangements of lithium electrodes",
+        "patent_id": "patent/US6413285B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6413285B1%2Fen"
+      },
+      {
+        "publication_number": "US6416903B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-08-17",
+        "publication_date": "2002-07-09",
+        "assignee_original": "Ovonic Battery Company, Inc.",
+        "title": "Nickel hydroxide electrode material and method for making the same",
+        "patent_id": "patent/US6416903B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6416903B1%2Fen"
+      },
+      {
+        "publication_number": "US20020150818A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-12",
+        "publication_date": "2002-10-17",
+        "assignee_original": "Amatucci Glenn G.",
+        "title": "Metal nitride electrode materials for high capacity rechargeable lithium battery cells",
+        "patent_id": "patent/US20020150818A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020150818A1%2Fen"
+      },
+      {
+        "publication_number": "US6537701B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-03",
+        "publication_date": "2003-03-25",
+        "assignee_original": "Polyplus Battery Company, Inc.",
+        "title": "Coated lithium electrodes",
+        "patent_id": "patent/US6537701B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6537701B1%2Fen"
+      },
+      {
+        "publication_number": "US6610440B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-10",
+        "publication_date": "2003-08-26",
+        "assignee_original": "Bipolar Technologies, Inc",
+        "title": "Microscopic batteries for MEMS systems",
+        "patent_id": "patent/US6610440B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6610440B1%2Fen"
+      },
+      {
+        "publication_number": "US6632573B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-20",
+        "publication_date": "2003-10-14",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Electrolytes with strong oxidizing additives for lithium/sulfur batteries",
+        "patent_id": "patent/US6632573B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6632573B1%2Fen"
+      },
+      {
+        "publication_number": "US6787019B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-21",
+        "publication_date": "2004-09-07",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Low temperature alkali metal electrolysis",
+        "patent_id": "patent/US6787019B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6787019B2%2Fen"
+      },
+      {
+        "publication_number": "US20040229107A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-14",
+        "publication_date": "2004-11-18",
+        "assignee_original": "Smedley Stuart I.",
+        "title": "Combined fuel cell and battery",
+        "patent_id": "patent/US20040229107A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040229107A1%2Fen"
+      },
+      {
+        "publication_number": "US6852450B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-25",
+        "publication_date": "2005-02-08",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Electrolyte for a lithium-sulfur battery and a lithium-sulfur battery using the same",
+        "patent_id": "patent/US6852450B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6852450B2%2Fen"
+      },
+      {
+        "publication_number": "US6881234B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-08",
+        "publication_date": "2005-04-19",
+        "assignee_original": "Frank E. Towsley",
+        "title": "Method for making electrodes for nickel-metal hydride batteries",
+        "patent_id": "patent/US6881234B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6881234B2%2Fen"
+      },
+      {
+        "publication_number": "US20050109617A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-28",
+        "publication_date": "2005-05-26",
+        "assignee_original": "Tdk Corporation",
+        "title": "Functional porous film, sensor, method of manufacturing functional porous film, method of manufacturing porous metal film, and method of manufacturing sensor",
+        "patent_id": "patent/US20050109617A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050109617A1%2Fen"
+      },
+      {
+        "publication_number": "US6911280B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-21",
+        "publication_date": "2005-06-28",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Chemical protection of a lithium surface",
+        "patent_id": "patent/US6911280B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6911280B1%2Fen"
+      },
+      {
+        "publication_number": "US20050175894A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-06",
+        "publication_date": "2005-08-11",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Protected active metal electrode and battery cell structures with non-aqueous interlayer architecture",
+        "patent_id": "patent/US20050175894A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050175894A1%2Fen"
+      },
+      {
+        "publication_number": "US6955866B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-03",
+        "publication_date": "2005-10-18",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Coated lithium electrodes",
+        "patent_id": "patent/US6955866B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6955866B2%2Fen"
+      },
+      {
+        "publication_number": "US6955753B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-16",
+        "publication_date": "2005-10-18",
+        "assignee_original": "Rmg Services Pty.Ltd.",
+        "title": "Treatment of crude oils",
+        "patent_id": "patent/US6955753B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6955753B1%2Fen"
+      },
+      {
+        "publication_number": "US6991662B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-10",
+        "publication_date": "2006-01-31",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Encapsulated alloy electrodes",
+        "patent_id": "patent/US6991662B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6991662B2%2Fen"
+      },
+      {
+        "publication_number": "US20060096893A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-10",
+        "publication_date": "2006-05-11",
+        "assignee_original": "Petroleo Brasileiro S.A. - Petrobras",
+        "title": "Process for selective hydrodesulfurization of naphtha",
+        "patent_id": "patent/US20060096893A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060096893A1%2Fen"
+      },
+      {
+        "publication_number": "US20060141346A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-23",
+        "publication_date": "2006-06-29",
+        "assignee_original": "Gordon John H",
+        "title": "Solid electrolyte thermoelectrochemical system",
+        "patent_id": "patent/US20060141346A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060141346A1%2Fen"
+      },
+      {
+        "publication_number": "US7070632B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-25",
+        "publication_date": "2006-07-04",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Electrochemical device separator structures with barrier layer on non-swelling membrane",
+        "patent_id": "patent/US7070632B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7070632B1%2Fen"
+      },
+      {
+        "publication_number": "US20060257734A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-16",
+        "publication_date": "2006-11-16",
+        "assignee_original": "Pico Science Corporation",
+        "title": "Self-rechargeable alkaline battery",
+        "patent_id": "patent/US20060257734A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060257734A1%2Fen"
+      },
+      {
+        "publication_number": "US20070048610A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-29",
+        "publication_date": "2007-03-01",
+        "assignee_original": "Tsang Floris Y",
+        "title": "Lithium battery",
+        "patent_id": "patent/US20070048610A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070048610A1%2Fen"
+      },
+      {
+        "publication_number": "US7214443B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-12",
+        "publication_date": "2007-05-08",
+        "assignee_original": "Plurion Limited",
+        "title": "Secondary battery with autolytic dendrites",
+        "patent_id": "patent/US7214443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7214443B2%2Fen"
+      },
+      {
+        "publication_number": "US20070172739A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-19",
+        "publication_date": "2007-07-26",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Composite solid electrolyte for protection of active metal anodes",
+        "patent_id": "patent/US20070172739A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070172739A1%2Fen"
+      },
+      {
+        "publication_number": "US7259126B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-11",
+        "publication_date": "2007-08-21",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Gas diffusion electrode and catalyst for electrochemical oxygen reduction and method of dispersing the catalyst",
+        "patent_id": "patent/US7259126B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7259126B2%2Fen"
+      },
+      {
+        "publication_number": "US7282302B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-15",
+        "publication_date": "2007-10-16",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Ionically conductive composites for protection of active metal anodes",
+        "patent_id": "patent/US7282302B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7282302B2%2Fen"
+      },
+      {
+        "publication_number": "US7282296B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-15",
+        "publication_date": "2007-10-16",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Ionically conductive composites for protection of active metal anodes",
+        "patent_id": "patent/US7282296B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7282296B2%2Fen"
+      },
+      {
+        "publication_number": "US7390591B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-15",
+        "publication_date": "2008-06-24",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Ionically conductive membranes for protection of active metal anodes and battery cells",
+        "patent_id": "patent/US7390591B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7390591B2%2Fen"
+      },
+      {
+        "publication_number": "US7482096B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-04",
+        "publication_date": "2009-01-27",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Alleviation of voltage delay in lithium-liquid depolarizer/electrolyte solvent battery cells",
+        "patent_id": "patent/US7482096B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7482096B2%2Fen"
+      },
+      {
+        "publication_number": "US7491458B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-10",
+        "publication_date": "2009-02-17",
+        "assignee_original": "Polyplus Battery Company",
+        "title": "Active metal fuel cells",
+        "patent_id": "patent/US7491458B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7491458B2%2Fen"
+      },
+      {
+        "publication_number": "US20090061288A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-05",
+        "publication_date": "2009-03-05",
+        "assignee_original": "John Howard Gordon",
+        "title": "Lithium-sulfur battery with a substantially non-pourous membrane and enhanced cathode utilization",
+        "patent_id": "patent/US20090061288A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090061288A1%2Fen"
+      },
+      {
+        "publication_number": "US20090136830A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-27",
+        "publication_date": "2009-05-28",
+        "assignee_original": "John Howard Gordon",
+        "title": "Substantially Solid, Flexible Electrolyte For Alkili-Metal-Ion Batteries",
+        "patent_id": "patent/US20090136830A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090136830A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "GB9011034D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-05-16",
+        "publication_date": "1990-07-04",
+        "assignee_original": "Programme 3 Patent Holdings",
+        "title": "Electrochemical cell",
+        "patent_id": "patent/GB9011034D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB9011034D0%2Fen"
+      },
+      {
+        "publication_number": "US7255961B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-12",
+        "publication_date": "2007-08-14",
+        "assignee_original": "Trans Ionics Corporation",
+        "title": "Thin film composite electrolyte",
+        "patent_id": "patent/US7255961B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7255961B2%2Fen"
+      },
+      {
+        "publication_number": "WO2008133642A2",
+        "primary_language": "en",
+        "priority_date": "2006-10-13",
+        "publication_date": "2008-11-06",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Advanced metal-air battery having a ceramic membrane electrolyte",
+        "patent_id": "patent/WO2008133642A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008133642A2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20090134040A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-27",
+        "publication_date": "2009-05-28",
+        "assignee_original": "John Howard Gordon",
+        "title": "Process For Recovering Alkali Metals and Sulfur From Alkali Metal Sulfides and Polysulfides",
+        "patent_id": "patent/US20090134040A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090134040A1%2Fen"
+      },
+      {
+        "publication_number": "US20090136830A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-27",
+        "publication_date": "2009-05-28",
+        "assignee_original": "John Howard Gordon",
+        "title": "Substantially Solid, Flexible Electrolyte For Alkili-Metal-Ion Batteries",
+        "patent_id": "patent/US20090136830A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090136830A1%2Fen"
+      },
+      {
+        "publication_number": "US20090134842A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-26",
+        "publication_date": "2009-05-28",
+        "assignee_original": "Joshi Ashok V",
+        "title": "Nickel-Metal Hydride Battery Using Alkali Ion Conducting Separator",
+        "patent_id": "patent/US20090134842A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090134842A1%2Fen"
+      },
+      {
+        "publication_number": "US20090189567A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-30",
+        "publication_date": "2009-07-30",
+        "assignee_original": "Joshi Ashok V",
+        "title": "Zinc Anode Battery Using Alkali Ion Conducting Separator",
+        "patent_id": "patent/US20090189567A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090189567A1%2Fen"
+      },
+      {
+        "publication_number": "US20090239152A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-03-19",
+        "publication_date": "2009-09-24",
+        "assignee_original": "Ohara, Inc.",
+        "title": "Battery",
+        "patent_id": "patent/US20090239152A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090239152A1%2Fen"
+      },
+      {
+        "publication_number": "US20100068629A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-12",
+        "publication_date": "2010-03-18",
+        "assignee_original": "John Howard Gordon",
+        "title": "Alkali metal seawater battery",
+        "patent_id": "patent/US20100068629A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100068629A1%2Fen"
+      },
+      {
+        "publication_number": "US20100297531A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-21",
+        "publication_date": "2010-11-25",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Immobilized fluid membranes for gas separation",
+        "patent_id": "patent/US20100297531A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100297531A1%2Fen"
+      },
+      {
+        "publication_number": "US20100304953A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-21",
+        "publication_date": "2010-12-02",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Zeolite Membranes for Separation of Mixtures Containing Water, Alcohols, or Organics",
+        "patent_id": "patent/US20100304953A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100304953A1%2Fen"
+      },
+      {
+        "publication_number": "US20110033769A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-10",
+        "publication_date": "2011-02-10",
+        "assignee_original": "Kevin Huang",
+        "title": "Electrical Storage Device Including Oxide-ion Battery Cell Bank and Module Configurations",
+        "patent_id": "patent/US20110033769A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110033769A1%2Fen"
+      },
+      {
+        "publication_number": "US20110059364A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-10",
+        "publication_date": "2011-03-10",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Air electrodes for high-energy metal air batteries and methods of making the same",
+        "patent_id": "patent/US20110059364A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110059364A1%2Fen"
+      },
+      {
+        "publication_number": "US20110059355A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-10",
+        "publication_date": "2011-03-10",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "High-energy metal air batteries",
+        "patent_id": "patent/US20110059355A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110059355A1%2Fen"
+      },
+      {
+        "publication_number": "US20110065009A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-13",
+        "publication_date": "2011-03-17",
+        "assignee_original": "Electricite De France",
+        "title": "Iron-air accumulator with lithium mediator",
+        "patent_id": "patent/US20110065009A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110065009A1%2Fen"
+      },
+      {
+        "publication_number": "FR2950737A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-30",
+        "publication_date": "2011-04-01",
+        "assignee_original": "Electricite De France",
+        "title": "RIGID NEGATIVE COMPARTMENT FOR METAL-AIR BATTERY AND METHOD OF MANUFACTURING THE SAME",
+        "patent_id": "patent/FR2950737A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2950737A1%2Fen"
+      },
+      {
+        "publication_number": "US20110155662A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-21",
+        "publication_date": "2011-06-30",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Thin, Porous Metal Sheets and Methods for Making the Same",
+        "patent_id": "patent/US20110155662A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110155662A1%2Fen"
+      },
+      {
+        "publication_number": "US8012633B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-13",
+        "publication_date": "2011-09-06",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Advanced metal-air battery having a ceramic membrane electrolyte",
+        "patent_id": "patent/US8012633B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8012633B2%2Fen"
+      },
+      {
+        "publication_number": "WO2011154869A2",
+        "primary_language": "en",
+        "priority_date": "2010-06-08",
+        "publication_date": "2011-12-15",
+        "assignee_original": "Ramot At Tel-Aviv University Ltd",
+        "title": "Rechargeable alkali metal-air battery",
+        "patent_id": "patent/WO2011154869A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011154869A2%2Fen"
+      },
+      {
+        "publication_number": "CN102292849A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-22",
+        "publication_date": "2011-12-21",
+        "assignee_original": "\u4e30\u7530\u81ea\u52a8\u8f66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Negative electrode structure for aqueous electrolyte battery, and aqueous electrolyte battery comprising the negative electrode structure",
+        "patent_id": "patent/CN102292849A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102292849A%2Fen"
+      },
+      {
+        "publication_number": "US20120121992A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-11",
+        "publication_date": "2012-05-17",
+        "assignee_original": "Fluidic, Inc.",
+        "title": "Metal-air cell with hydrophobic and hygroscopic ionically conductive mediums",
+        "patent_id": "patent/US20120121992A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120121992A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012069216A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-24",
+        "publication_date": "2012-05-31",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Electrical energy storage device",
+        "patent_id": "patent/WO2012069216A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012069216A1%2Fen"
+      },
+      {
+        "publication_number": "US20120141881A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-14",
+        "publication_date": "2012-06-07",
+        "assignee_original": "Seeo, Inc",
+        "title": "High energy polymer battery",
+        "patent_id": "patent/US20120141881A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120141881A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012061823A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-05",
+        "publication_date": "2012-07-05",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Low temperature molten sodium secondary cell with sodium ion conductive electrolyte membrane",
+        "patent_id": "patent/WO2012061823A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012061823A3%2Fen"
+      },
+      {
+        "publication_number": "US20120208095A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-09",
+        "publication_date": "2012-08-16",
+        "assignee_original": "Bae Systems Plc",
+        "title": "Gaseous product generator",
+        "patent_id": "patent/US20120208095A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120208095A1%2Fen"
+      },
+      {
+        "publication_number": "KR20120095949A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-05",
+        "publication_date": "2012-08-29",
+        "assignee_original": "\uc138\ub77c\ub9c8\ud14c\ud06c, \uc778\ucf54\uc624\ud3ec\ub808\uc774\ud2f0\ub4dc",
+        "title": "Solid-state sodium-based secondary cell having a sodium ion conductive ceramic separator",
+        "patent_id": "patent/KR20120095949A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20120095949A%2Fen"
+      },
+      {
+        "publication_number": "WO2012177356A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-24",
+        "publication_date": "2012-12-27",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Construction of planar rechargeable oxide-ion battery cells and stacks using stainless steel housing structures",
+        "patent_id": "patent/WO2012177356A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012177356A1%2Fen"
+      },
+      {
+        "publication_number": "US20130017432A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-11",
+        "publication_date": "2013-01-17",
+        "assignee_original": "Roumi Farshid",
+        "title": "Novel separators for electrochemical systems",
+        "patent_id": "patent/US20130017432A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130017432A1%2Fen"
+      },
+      {
+        "publication_number": "CN102934280A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-06-04",
+        "publication_date": "2013-02-13",
+        "assignee_original": "\u65e5\u7acb\u9020\u8239\u682a\u5f0f\u4f1a\u793e",
+        "title": "Metal air battery",
+        "patent_id": "patent/CN102934280A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102934280A%2Fen"
+      },
+      {
+        "publication_number": "US20130106359A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-28",
+        "publication_date": "2013-05-02",
+        "assignee_original": "Ngk Insulators, Ltd.",
+        "title": "Metal-air battery system including co2 selective absorber and operating method therefor",
+        "patent_id": "patent/US20130106359A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130106359A1%2Fen"
+      },
+      {
+        "publication_number": "US20140065456A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-06",
+        "publication_date": "2014-03-06",
+        "assignee_original": "Ceramates, Inc.",
+        "title": "Sodium-Halogen Secondary Cell",
+        "patent_id": "patent/US20140065456A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140065456A1%2Fen"
+      },
+      {
+        "publication_number": "US20140072881A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-13",
+        "publication_date": "2014-03-13",
+        "assignee_original": "National University Corporation Mie University",
+        "title": "Lithium battery",
+        "patent_id": "patent/US20140072881A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140072881A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014041800A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-11",
+        "publication_date": "2014-03-20",
+        "assignee_original": "\u56fd\u7acb\u5927\u5b66\u6cd5\u4eba\u6771\u4eac\u5de5\u696d\u5927\u5b66",
+        "title": "METAL Na CELL",
+        "patent_id": "patent/WO2014041800A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014041800A1%2Fen"
+      },
+      {
+        "publication_number": "KR20140066517A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-23",
+        "publication_date": "2014-06-02",
+        "assignee_original": "\uc5d0\uc2a4\ucf00\uc774\uc774\ub178\ubca0\uc774\uc158 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Lithium air battery",
+        "patent_id": "patent/KR20140066517A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20140066517A%2Fen"
+      },
+      {
+        "publication_number": "US8760118B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-02",
+        "publication_date": "2014-06-24",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "System and method for charging and discharging a Li-ion battery",
+        "patent_id": "patent/US8760118B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8760118B2%2Fen"
+      },
+      {
+        "publication_number": "WO2014099153A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-19",
+        "publication_date": "2014-06-26",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Degradation protection of solid alkali ion conductive electrolyte membrane",
+        "patent_id": "patent/WO2014099153A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014099153A1%2Fen"
+      },
+      {
+        "publication_number": "US8771855B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-11",
+        "publication_date": "2014-07-08",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Alkali metal aqueous battery",
+        "patent_id": "patent/US8771855B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8771855B2%2Fen"
+      },
+      {
+        "publication_number": "US8771879B2",
+        "primary_language": "en",
+        "priority_date": "2007-09-05",
+        "publication_date": "2014-07-08",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Lithium\u2014sulfur battery with a substantially non-porous lisicon membrane and porous lisicon layer",
+        "patent_id": "patent/US8771879B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8771879B2%2Fen"
+      },
+      {
+        "publication_number": "WO2014159542A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-13",
+        "publication_date": "2014-10-02",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Low temperature battery with molten sodium-fsa electrolyte",
+        "patent_id": "patent/WO2014159542A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014159542A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014164883A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-13",
+        "publication_date": "2014-10-09",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Low temperature secondary cell with sodium intercalation electrode",
+        "patent_id": "patent/WO2014164883A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014164883A1%2Fen"
+      },
+      {
+        "publication_number": "CN104254943A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-27",
+        "publication_date": "2014-12-31",
+        "assignee_original": "\u5df4\u65af\u592b\u6b27\u6d32\u516c\u53f8",
+        "title": "Sodium-oxygen cells",
+        "patent_id": "patent/CN104254943A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104254943A%2Fen"
+      },
+      {
+        "publication_number": "US20150104718A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-14",
+        "publication_date": "2015-04-16",
+        "assignee_original": "Empire Technology Development Llc",
+        "title": "Flexible transparent air-metal batteries",
+        "patent_id": "patent/US20150104718A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150104718A1%2Fen"
+      },
+      {
+        "publication_number": "KR20150063310A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-24",
+        "publication_date": "2015-06-09",
+        "assignee_original": "\uc5d0\uc2a4\ucf00\uc774\uc774\ub178\ubca0\uc774\uc158 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Lithium air battery",
+        "patent_id": "patent/KR20150063310A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150063310A%2Fen"
+      },
+      {
+        "publication_number": "US20150303530A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-29",
+        "publication_date": "2015-10-22",
+        "assignee_original": "Electricite De France",
+        "title": "Method for charging a zinc-air battery with limited potential",
+        "patent_id": "patent/US20150303530A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150303530A1%2Fen"
+      },
+      {
+        "publication_number": "US20150311492A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-14",
+        "publication_date": "2015-10-29",
+        "assignee_original": "Fudan University",
+        "title": "High Energy Density Charge And Discharge Lithium Battery",
+        "patent_id": "patent/US20150311492A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150311492A1%2Fen"
+      },
+      {
+        "publication_number": "US9209445B2",
+        "primary_language": "en",
+        "priority_date": "2007-11-26",
+        "publication_date": "2015-12-08",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Nickel-metal hydride/hydrogen hybrid battery using alkali ion conducting separator",
+        "patent_id": "patent/US9209445B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9209445B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016075995A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-13",
+        "publication_date": "2016-05-19",
+        "assignee_original": "\u65e5\u672c\u788d\u5b50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Secondary battery using hydroxide ion-conductive ceramic separator",
+        "patent_id": "patent/WO2016075995A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016075995A1%2Fen"
+      },
+      {
+        "publication_number": "CN105633511A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-06",
+        "publication_date": "2016-06-01",
+        "assignee_original": "\u5357\u5f00\u5927\u5b66",
+        "title": "A kind of Na-CO2 room temperature secondary battery and preparation method thereof",
+        "patent_id": "patent/CN105633511A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105633511A%2Fen"
+      },
+      {
+        "publication_number": "US9431681B2",
+        "primary_language": "en",
+        "priority_date": "2013-09-05",
+        "publication_date": "2016-08-30",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "High temperature sodium battery with high energy efficiency",
+        "patent_id": "patent/US9431681B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9431681B2%2Fen"
+      },
+      {
+        "publication_number": "US9431656B2",
+        "primary_language": "en",
+        "priority_date": "2013-05-30",
+        "publication_date": "2016-08-30",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Hybrid molten/solid sodium anode for room/intermediate temperature electric vehicle battery",
+        "patent_id": "patent/US9431656B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9431656B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016191551A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-26",
+        "publication_date": "2016-12-01",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "A lithium-bromine rechargeable electrochemical system and applications thereof",
+        "patent_id": "patent/WO2016191551A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016191551A1%2Fen"
+      },
+      {
+        "publication_number": "US9537179B2",
+        "primary_language": "en",
+        "priority_date": "2013-09-25",
+        "publication_date": "2017-01-03",
+        "assignee_original": "Ceramatec, Inc.",
+        "title": "Intermediate temperature sodium-metal halide battery",
+        "patent_id": "patent/US9537179B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9537179B2%2Fen"
+      },
+      {
+        "publication_number": "JP2018500751A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-21",
+        "publication_date": "2018-01-11",
+        "assignee_original": "\u30a8\u30eb\u30b8\u30fc\u30fb\u30b1\u30e0\u30fb\u30ea\u30df\u30c6\u30c3\u30c9",
+        "title": "Lithium air battery",
+        "patent_id": "patent/JP2018500751A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018500751A%2Fen"
+      },
+      {
+        "publication_number": "US9876253B2",
+        "primary_language": "en",
+        "priority_date": "2013-06-06",
+        "publication_date": "2018-01-23",
+        "assignee_original": "Field Upgrading Usa, Inc.",
+        "title": "Low viscosity/high conductivity sodium haloaluminate electrolyte",
+        "patent_id": "patent/US9876253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9876253B2%2Fen"
+      },
+      {
+        "publication_number": "CN107946603A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-15",
+        "publication_date": "2018-04-20",
+        "assignee_original": "\u5218\u8299\u84c9",
+        "title": "A kind of double activated material cell anode chamber",
+        "patent_id": "patent/CN107946603A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107946603A%2Fen"
+      },
+      {
+        "publication_number": "US9954213B2",
+        "primary_language": "en",
+        "priority_date": "2011-07-11",
+        "publication_date": "2018-04-24",
+        "assignee_original": "California Institute Of Technology",
+        "title": "Electrochemical systems with at least one electronically and ionically conductive layer",
+        "patent_id": "patent/US9954213B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9954213B2%2Fen"
+      },
+      {
+        "publication_number": "US9991492B2",
+        "primary_language": "en",
+        "priority_date": "2013-11-18",
+        "publication_date": "2018-06-05",
+        "assignee_original": "California Institute Of Technology",
+        "title": "Separator enclosures for electrodes and electrochemical cells",
+        "patent_id": "patent/US9991492B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9991492B2%2Fen"
+      },
+      {
+        "publication_number": "US10020543B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-05",
+        "publication_date": "2018-07-10",
+        "assignee_original": "Field Upgrading Usa, Inc.",
+        "title": "Low temperature battery with molten sodium-FSA electrolyte",
+        "patent_id": "patent/US10020543B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10020543B2%2Fen"
+      },
+      {
+        "publication_number": "US10056651B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-05",
+        "publication_date": "2018-08-21",
+        "assignee_original": "Field Upgrading Usa, Inc.",
+        "title": "Low temperature secondary cell with sodium intercalation electrode",
+        "patent_id": "patent/US10056651B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10056651B2%2Fen"
+      },
+      {
+        "publication_number": "US10087538B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-09",
+        "publication_date": "2018-10-02",
+        "assignee_original": "Field Upgrading Limited",
+        "title": "Process for recovering alkali metals and sulfur from alkali metal sulfides and polysulfides",
+        "patent_id": "patent/US10087538B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10087538B2%2Fen"
+      },
+      {
+        "publication_number": "US10153530B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-13",
+        "publication_date": "2018-12-11",
+        "assignee_original": "Samsung Electronics Co., Ltd.",
+        "title": "Metal-air battery",
+        "patent_id": "patent/US10153530B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10153530B2%2Fen"
+      },
+      {
+        "publication_number": "US10170798B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-01",
+        "publication_date": "2019-01-01",
+        "assignee_original": "Field Upgrading Usa, Inc.",
+        "title": "Moderate temperature sodium battery",
+        "patent_id": "patent/US10170798B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10170798B2%2Fen"
+      },
+      {
+        "publication_number": "US10193144B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-17",
+        "publication_date": "2019-01-29",
+        "assignee_original": "Uchicago Argonne, Llc",
+        "title": "High capacity lithium ion batteries having oxides, peroxides, or superoxides as cathode active material",
+        "patent_id": "patent/US10193144B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10193144B2%2Fen"
+      },
+      {
+        "publication_number": "US20190058210A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-15",
+        "publication_date": "2019-02-21",
+        "assignee_original": "GM Global Technology Operations LLC",
+        "title": "Lithium metal battery with hybrid electrolyte system",
+        "patent_id": "patent/US20190058210A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190058210A1%2Fen"
+      },
+      {
+        "publication_number": "US10224577B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-07",
+        "publication_date": "2019-03-05",
+        "assignee_original": "Field Upgrading Usa, Inc.",
+        "title": "Battery charge transfer mechanisms",
+        "patent_id": "patent/US10224577B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10224577B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019046575A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-31",
+        "publication_date": "2019-03-07",
+        "assignee_original": "Research Foundation Of The City University Of New York",
+        "title": "Ion selective membrane for selective ion penetration in alkaline batteries",
+        "patent_id": "patent/WO2019046575A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019046575A1%2Fen"
+      },
+      {
+        "publication_number": "US20190103643A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-10",
+        "publication_date": "2019-04-04",
+        "assignee_original": "General Electric Company",
+        "title": "Electrochemical cell for use in high temperature metal-air battery",
+        "patent_id": "patent/US20190103643A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190103643A1%2Fen"
+      },
+      {
+        "publication_number": "US10265660B2",
+        "primary_language": "en",
+        "priority_date": "2009-05-21",
+        "publication_date": "2019-04-23",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Thin-sheet zeolite membrane and methods for making the same",
+        "patent_id": "patent/US10265660B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10265660B2%2Fen"
+      },
+      {
+        "publication_number": "US10320033B2",
+        "primary_language": "en",
+        "priority_date": "2008-01-30",
+        "publication_date": "2019-06-11",
+        "assignee_original": "Enlighten Innovations Inc.",
+        "title": "Alkali metal ion battery using alkali metal conductive ceramic separator",
+        "patent_id": "patent/US10320033B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10320033B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019136467A1",
+        "primary_language": "en",
+        "priority_date": "2018-01-08",
+        "publication_date": "2019-07-11",
+        "assignee_original": "24M Technologies, Inc.",
+        "title": "Electrochemical cells including selectively permeable membranes, systems and methods of manufacturing the same",
+        "patent_id": "patent/WO2019136467A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019136467A1%2Fen"
+      },
+      {
+        "publication_number": "US10673046B2",
+        "primary_language": "en",
+        "priority_date": "2018-04-13",
+        "publication_date": "2020-06-02",
+        "assignee_original": "GM Global Technology Operations LLC",
+        "title": "Separator for lithium metal based batteries",
+        "patent_id": "patent/US10673046B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10673046B2%2Fen"
+      },
+      {
+        "publication_number": "US10714724B2",
+        "primary_language": "en",
+        "priority_date": "2013-11-18",
+        "publication_date": "2020-07-14",
+        "assignee_original": "California Institute Of Technology",
+        "title": "Membranes for electrochemical cells",
+        "patent_id": "patent/US10714724B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10714724B2%2Fen"
+      },
+      {
+        "publication_number": "US10734686B2",
+        "primary_language": "en",
+        "priority_date": "2015-04-17",
+        "publication_date": "2020-08-04",
+        "assignee_original": "Field Upgrading Usa, Inc.",
+        "title": "Sodium-aluminum battery with sodium ion conductive ceramic separator",
+        "patent_id": "patent/US10734686B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10734686B2%2Fen"
+      },
+      {
+        "publication_number": "US10854929B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-06",
+        "publication_date": "2020-12-01",
+        "assignee_original": "Field Upgrading Usa, Inc.",
+        "title": "Sodium-halogen secondary cell",
+        "patent_id": "patent/US10854929B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10854929B2%2Fen"
+      },
+      {
+        "publication_number": "US20200403193A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-06",
+        "publication_date": "2020-12-24",
+        "assignee_original": "President And Fellows Of Harvard College",
+        "title": "Method for fabrication of ultra lightweight, high power density lithium ion batteries",
+        "patent_id": "patent/US20200403193A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200403193A1%2Fen"
+      },
+      {
+        "publication_number": "US10892530B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-28",
+        "publication_date": "2021-01-12",
+        "assignee_original": "Ngk Insulators, Ltd.",
+        "title": "Air electrode for metal-air battery",
+        "patent_id": "patent/US10892530B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10892530B2%2Fen"
+      },
+      {
+        "publication_number": "CN112768836A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-12",
+        "publication_date": "2021-05-07",
+        "assignee_original": "\u4e1c\u534e\u5927\u5b66",
+        "title": "Zinc ion selective transmission diaphragm and preparation method thereof",
+        "patent_id": "patent/CN112768836A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112768836A%2Fen"
+      },
+      {
+        "publication_number": "US11271214B2",
+        "primary_language": "en",
+        "priority_date": "2015-12-02",
+        "publication_date": "2022-03-08",
+        "assignee_original": "California Institute Of Technology",
+        "title": "Three-dimensional ion transport networks and current collectors for electrochemical cells",
+        "patent_id": "patent/US11271214B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11271214B2%2Fen"
+      },
+      {
+        "publication_number": "WO2022073035A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-02",
+        "publication_date": "2022-04-07",
+        "assignee_original": "Battelle Energy Alliance, Llc",
+        "title": "Electrochemical cells including anodes comprising a protective layer, and related methods",
+        "patent_id": "patent/WO2022073035A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022073035A1%2Fen"
+      },
+      {
+        "publication_number": "US11631920B2",
+        "primary_language": "en",
+        "priority_date": "2019-06-27",
+        "publication_date": "2023-04-18",
+        "assignee_original": "24M Technologies, Inc.",
+        "title": "Dual electrolyte electrochemical cells, systems, and methods of manufacturing the same",
+        "patent_id": "patent/US11631920B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11631920B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US9039788B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-18",
+        "publication_date": "2015-05-26",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Methods for making anodes for lithium ion batteries",
+        "patent_id": "patent/US9039788B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9039788B2%2Fen"
+      },
+      {
+        "publication_number": "KR101673614B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-19",
+        "publication_date": "2016-11-07",
+        "assignee_original": "\ud604\ub300\uc790\ub3d9\ucc28\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "A method of charging and discharing lithium air battery using the ultrasound",
+        "patent_id": "patent/KR101673614B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101673614B1%2Fen"
+      },
+      {
+        "publication_number": "FR2982427B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-09",
+        "publication_date": "2013-12-20",
+        "assignee_original": "Electricite De France",
+        "title": "AQUEOUS ELECTROLYTE FOR LITHIUM-AIR BATTERY",
+        "patent_id": "patent/FR2982427B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2982427B1%2Fen"
+      },
+      {
+        "publication_number": "CN104054210B",
+        "primary_language": "en",
+        "priority_date": "2012-01-20",
+        "publication_date": "2016-04-27",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u4e30\u7530\u81ea\u52a8\u7ec7\u673a",
+        "title": "Secondary cell",
+        "patent_id": "patent/CN104054210B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104054210B%2Fen"
+      },
+      {
+        "publication_number": "WO2014204547A2",
+        "primary_language": "en",
+        "priority_date": "2013-04-01",
+        "publication_date": "2014-12-24",
+        "assignee_original": "The University Of North Carolina At Chapel Hill",
+        "title": "Ion conducting fluoropolymer carbonates for alkali metal ion batteries",
+        "patent_id": "patent/WO2014204547A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014204547A2%2Fen"
+      },
+      {
+        "publication_number": "US9054394B2",
+        "primary_language": "en",
+        "priority_date": "2013-06-28",
+        "publication_date": "2015-06-09",
+        "assignee_original": "Dynantis Corporation",
+        "title": "Secondary alkali metal/oxygen batteries",
+        "patent_id": "patent/US9054394B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9054394B2%2Fen"
+      },
+      {
+        "publication_number": "US9627727B2",
+        "primary_language": "en",
+        "priority_date": "2014-07-22",
+        "publication_date": "2017-04-18",
+        "assignee_original": "Toyota Motor Engineering & Manufacturing North America, Inc.",
+        "title": "Lithium-air battery with cathode separated from free lithium ion",
+        "patent_id": "patent/US9627727B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9627727B2%2Fen"
+      },
+      {
+        "publication_number": "US9343787B2",
+        "primary_language": "en",
+        "priority_date": "2014-07-30",
+        "publication_date": "2016-05-17",
+        "assignee_original": "Toyota Motor Engineering & Manufacturing North America, Inc.",
+        "title": "Lithium-air battery with sodium salt as mediator",
+        "patent_id": "patent/US9343787B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9343787B2%2Fen"
+      },
+      {
+        "publication_number": "TWI678833B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-27",
+        "publication_date": "2019-12-01",
+        "assignee_original": "\u65e5\u5546\u65e5\u672c\u788d\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Layered double hydroxide separator and zinc secondary battery",
+        "patent_id": "patent/TWI678833B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI678833B%2Fen"
+      },
+      {
+        "publication_number": "DE102022210150A1",
+        "primary_language": "en",
+        "priority_date": "2022-09-26",
+        "publication_date": "2024-03-28",
+        "assignee_original": "Forschungszentrum J\u00fclich GmbH",
+        "title": "Method for producing a material or component for a solid-state battery",
+        "patent_id": "patent/DE102022210150A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102022210150A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US8012633B2",
+      "primary_language": "en",
+      "publication_date": "2011-09-06",
+      "title": "Advanced metal-air battery having a ceramic membrane electrolyte",
+      "patent_id": "patent/US8012633B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8012633B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7117863080686990750",
+      "scholar_authors": "Imanishi et al.",
+      "publication_date": "2019",
+      "title": "Perspectives and challenges of rechargeable lithium\u2013air batteries",
+      "patent_id": "scholar/7117863080686990750",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7117863080686990750"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102714338B",
+      "primary_language": "en",
+      "publication_date": "2015-06-03",
+      "title": "Air battery and air battery stack",
+      "patent_id": "patent/CN102714338B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102714338B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9692078B2",
+      "primary_language": "en",
+      "publication_date": "2017-06-27",
+      "title": "High-performance rechargeable batteries with fast solid-state ion conductors",
+      "patent_id": "patent/US9692078B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9692078B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4315328556269344678",
+      "scholar_authors": "Besenhard",
+      "publication_date": "2008",
+      "title": "Handbook of battery materials",
+      "patent_id": "scholar/4315328556269344678",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4315328556269344678"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103201884B",
+      "primary_language": "en",
+      "publication_date": "2016-01-06",
+      "title": "For the air electrode of metal-air cell, for having film/air electrode assembly and the metal-air cell of the metal-air cell of this air electrode",
+      "patent_id": "patent/CN103201884B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103201884B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5644873B2",
+      "primary_language": "en",
+      "publication_date": "2014-12-24",
+      "title": "Air secondary battery",
+      "patent_id": "patent/JP5644873B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5644873B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105304976B",
+      "primary_language": "en",
+      "publication_date": "2019-11-15",
+      "title": "Lithium-air battery with cathode separated from free lithium ions",
+      "patent_id": "patent/CN105304976B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105304976B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110269007A1",
+      "primary_language": "en",
+      "publication_date": "2011-11-03",
+      "title": "High rate seawater activated lithium battery cells bi-polar protected electrodes and multi-cell stacks",
+      "patent_id": "patent/US20110269007A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110269007A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20150093659A1",
+      "primary_language": "en",
+      "publication_date": "2015-04-02",
+      "title": "Aluminium-air battery and accumulator system",
+      "patent_id": "patent/US20150093659A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150093659A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5202767B2",
+      "primary_language": "en",
+      "publication_date": "2013-06-05",
+      "title": "Metal oxygen battery",
+      "patent_id": "patent/JP5202767B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5202767B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2709204B1",
+      "primary_language": "en",
+      "publication_date": "2015-11-04",
+      "title": "Oxygen cell",
+      "patent_id": "patent/EP2709204B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2709204B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10320033B2",
+      "primary_language": "en",
+      "publication_date": "2019-06-11",
+      "title": "Alkali metal ion battery using alkali metal conductive ceramic separator",
+      "patent_id": "patent/US10320033B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10320033B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "BG61743B1",
+      "primary_language": "en",
+      "publication_date": "1998-04-30",
+      "title": "Electrochemical device with air electrode for energy generation",
+      "patent_id": "patent/BG61743B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBG61743B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20150104718A1",
+      "primary_language": "en",
+      "publication_date": "2015-04-16",
+      "title": "Flexible transparent air-metal batteries",
+      "patent_id": "patent/US20150104718A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150104718A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130011751A1",
+      "primary_language": "en",
+      "publication_date": "2013-01-10",
+      "title": "Metal oxygen battery",
+      "patent_id": "patent/US20130011751A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130011751A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5363766622428621136",
+      "scholar_authors": "Wheeler et al.",
+      "publication_date": "2022",
+      "title": "Beyond Li-Ion batteries for grid-scale energy storage",
+      "patent_id": "scholar/5363766622428621136",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5363766622428621136"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104011933B",
+      "primary_language": "en",
+      "publication_date": "2015-07-15",
+      "title": "Metal-oxygen battery and method for producing oxygen storage material used in same",
+      "patent_id": "patent/CN104011933B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104011933B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2707924A2",
+      "primary_language": "en",
+      "publication_date": "2014-03-19",
+      "title": "Alkali metal ion battery using alkali metal conductive ceramic separator",
+      "patent_id": "patent/EP2707924A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2707924A2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17637133662707295381",
+      "scholar_authors": "Choi",
+      "publication_date": "2024",
+      "title": "Zinc\u2013Based Batteries: From Fundamental to Applications",
+      "patent_id": "scholar/17637133662707295381",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17637133662707295381"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17536269989831688856",
+      "scholar_authors": "Dell",
+      "publication_date": "1996",
+      "title": "Aqueous electrolyte batteries",
+      "patent_id": "scholar/17536269989831688856",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17536269989831688856"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240429367A1",
+      "primary_language": "en",
+      "publication_date": "2024-12-26",
+      "title": "Bipolar battery with proton and hydroxide ion conducting polymer based separator",
+      "patent_id": "patent/US20240429367A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240429367A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240283089A1",
+      "primary_language": "en",
+      "publication_date": "2024-08-22",
+      "title": "Proton conducting rechargeable batteries and processes",
+      "patent_id": "patent/US20240283089A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240283089A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5427461261550515006",
+      "scholar_authors": "Sridharan",
+      "publication_date": "2024",
+      "title": "An Overview of Metal-Air Battery and Applications",
+      "patent_id": "scholar/5427461261550515006",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5427461261550515006"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7862695182448017366",
+      "scholar_authors": "Korovin",
+      "publication_date": "2006",
+      "title": "Metal\u2013Air Batteries with Carbonaceous Air Electrodes and Nonmetallic Catalysts",
+      "patent_id": "scholar/7862695182448017366",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7862695182448017366"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2009-05-11",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CERAMATEC, INC., UTAH"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:GORDON, JOHN HOWARD;BALAGOPAL, SHEKAR;WATKINS, JOHN JOSEPH;AND OTHERS;REEL/FRAME:022666/0761;SIGNING DATES FROM 20090402 TO 20090407"
+        },
+        {
+          "label": "Owner name",
+          "value": "CERAMATEC, INC., UTAH"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:GORDON, JOHN HOWARD;BALAGOPAL, SHEKAR;WATKINS, JOHN JOSEPH;AND OTHERS;SIGNING DATES FROM 20090402 TO 20090407;REEL/FRAME:022666/0761"
+        }
+      ]
+    },
+    {
+      "date": "2011-08-17",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2015-03-02",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "FIELD UPGRADING USA, INC., COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CERAMATEC, INC.;REEL/FRAME:043833/0665"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170822"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-12",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL)"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-22",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2552); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-28",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2553); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000012528",
+        "name": "membrane",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 71
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "239000000919",
+        "name": "ceramic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "name": "atomic oxygen",
+        "domain": "Chemical compound",
+        "smiles": "[O]",
+        "inchi_key": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "229910052760",
+        "name": "oxygen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "239000001301",
+        "name": "oxygen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "229910001413",
+        "name": "alkali metal ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "229910052783",
+        "name": "alkali metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "150000001340",
+        "name": "alkali metals",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "150000002500",
+        "name": "ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "239000007795",
+        "name": "chemical reaction product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "229910052708",
+        "name": "sodium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052700",
+        "name": "potassium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000001450",
+        "name": "anions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000009792",
+        "name": "diffusion process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "239000003054",
+        "name": "catalyst",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000002209",
+        "name": "hydrophobic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910017052",
+        "name": "cobalt",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000010941",
+        "name": "cobalt",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+        "name": "cobalt atom",
+        "domain": "Chemical compound",
+        "smiles": "[Co]",
+        "inchi_key": "GUTLYIVDDKVIGB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "WPBNNNQJVZRUHP-UHFFFAOYSA-L",
+        "name": "manganese(2+);methyl n-[[2-(methoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate;n-[2-(sulfidocarbothioylamino)ethyl]carbamodithioate",
+        "domain": "Chemical compound",
+        "smiles": "[Mn+2].[S-]C(=S)NCCNC([S-])=S.COC(=O)NC(=S)NC1=CC=CC=C1NC(=S)NC(=O)OC",
+        "inchi_key": "WPBNNNQJVZRUHP-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "WMFOQBRAJBCJND-UHFFFAOYSA-M",
+        "name": "Lithium hydroxide",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[OH-]",
+        "inchi_key": "WMFOQBRAJBCJND-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "HEMHJVSKTPXQMS-UHFFFAOYSA-M",
+        "name": "Sodium hydroxide",
+        "domain": "Chemical compound",
+        "smiles": "[OH-].[Na+]",
+        "inchi_key": "HEMHJVSKTPXQMS-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "-1",
+        "name": "peroxide ions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "239000011734",
+        "name": "sodium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "name": "Ilexoside XXIX",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]",
+        "inchi_key": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229910001415",
+        "name": "sodium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "150000002978",
+        "name": "peroxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000010936",
+        "name": "titanium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910052719",
+        "name": "titanium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000010287",
+        "name": "polarization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "name": "Titanium",
+        "domain": "Chemical compound",
+        "smiles": "[Ti]",
+        "inchi_key": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "HPGPEWYJWRWDTP-UHFFFAOYSA-N",
+        "name": "lithium peroxide",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Li+].[O-][O-]",
+        "inchi_key": "HPGPEWYJWRWDTP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+        "name": "Methanol",
+        "domain": "Chemical compound",
+        "smiles": "OC",
+        "inchi_key": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "name": "Nickel",
+        "domain": "Chemical compound",
+        "smiles": "[Ni]",
+        "inchi_key": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+        "name": "Sodium cation",
+        "domain": "Chemical compound",
+        "smiles": "[Na+]",
+        "inchi_key": "FKNQFGJONOIPTF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+        "name": "Sodium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Cl-]",
+        "inchi_key": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000008044",
+        "name": "alkali metal hydroxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000010405",
+        "name": "anode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920002678",
+        "name": "cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000001913",
+        "name": "cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000004677",
+        "name": "hydrates",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "KWGKDLIKAYFUFQ-UHFFFAOYSA-M",
+        "name": "lithium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Cl-]",
+        "inchi_key": "KWGKDLIKAYFUFQ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "RUOJZAUFBMNUDX-UHFFFAOYSA-N",
+        "name": "propylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CC1COC(=O)O1",
+        "inchi_key": "RUOJZAUFBMNUDX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000007784",
+        "name": "solid electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "name": "Ethylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "O=C1OCCO1",
+        "inchi_key": "KMTRUDSVKNLOMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004809",
+        "name": "Teflon",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920006362",
+        "name": "Teflon\u00ae",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000010411",
+        "name": "electrocatalyst",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052727",
+        "name": "yttrium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "name": "Copper",
+        "domain": "Chemical compound",
+        "smiles": "[Cu]",
+        "inchi_key": "RYGMFSIKBFXOCR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+        "name": "Diethyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)OCC",
+        "inchi_key": "OIFBSDVPJOWBCH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+        "name": "Isopropanol",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)O",
+        "inchi_key": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012359",
+        "name": "Methanesulfonyl chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910019142",
+        "name": "PO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920003171",
+        "name": "Poly (ethylene oxide)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001854",
+        "name": "alkali hydroxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000272",
+        "name": "alkali metal oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VSCWAEJMTAWNJL-UHFFFAOYSA-K",
+        "name": "aluminium trichloride",
+        "domain": "Chemical compound",
+        "smiles": "Cl[Al](Cl)Cl",
+        "inchi_key": "VSCWAEJMTAWNJL-UHFFFAOYSA-K",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052802",
+        "name": "copper",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010949",
+        "name": "copper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VUPKGFBOKBGHFZ-UHFFFAOYSA-N",
+        "name": "dipropyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCCOC(=O)OCCC",
+        "inchi_key": "VUPKGFBOKBGHFZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004090",
+        "name": "dissolution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "JBTWLSYIZRCDFO-UHFFFAOYSA-N",
+        "name": "ethyl methyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)OC",
+        "inchi_key": "JBTWLSYIZRCDFO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052735",
+        "name": "hafnium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010416",
+        "name": "ion conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000004692",
+        "name": "metal hydroxides",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910044991",
+        "name": "metal oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000004706",
+        "name": "metal oxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QARBMVPHQWIHKH-UHFFFAOYSA-N",
+        "name": "methanesulfonyl chloride",
+        "domain": "Chemical compound",
+        "smiles": "CS(Cl)(=O)=O",
+        "inchi_key": "QARBMVPHQWIHKH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052759",
+        "name": "nickel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920002239",
+        "name": "polyacrylonitrile",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011148",
+        "name": "porous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052710",
+        "name": "silicon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011780",
+        "name": "sodium chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052718",
+        "name": "tin",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052726",
+        "name": "zirconium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910019484",
+        "name": "(Li5RESi4O12)1\u2212\u03b4(RE2O32SiO2)\u03b4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZZXUZKXVROWEIF-UHFFFAOYSA-N",
+        "name": "1,2-butylene carbonate",
+        "domain": "Chemical compound",
+        "smiles": "CCC1COC(=O)O1",
+        "inchi_key": "ZZXUZKXVROWEIF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FVEDQBQRDHJJHW-UHFFFAOYSA-N",
+        "name": "1,3-dioxolan-2-one;1-methoxy-2-[2-[2-(2-methoxyethoxy)ethoxy]ethoxy]ethane",
+        "domain": "Chemical compound",
+        "smiles": "O=C1OCCO1.COCCOCCOCCOCCOC",
+        "inchi_key": "FVEDQBQRDHJJHW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WNXJIVFYUVYPPR-UHFFFAOYSA-N",
+        "name": "1,3-dioxolane",
+        "domain": "Chemical compound",
+        "smiles": "C1COCO1",
+        "inchi_key": "WNXJIVFYUVYPPR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RVEJOWGVUQQIIZ-UHFFFAOYSA-N",
+        "name": "1-hexyl-3-methylimidazolium",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCN1C=C[N+](C)=C1",
+        "inchi_key": "RVEJOWGVUQQIIZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BVKZGUZCCUSVTD-UHFFFAOYSA-L",
+        "name": "Carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]C([O-])=O",
+        "inchi_key": "BVKZGUZCCUSVTD-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+        "name": "Chloride anion",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-]",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+        "name": "Dioxygen",
+        "domain": "Chemical compound",
+        "smiles": "O=O",
+        "inchi_key": "MYMOFIZGZYHOMD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052692",
+        "name": "Dysprosium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910002129",
+        "name": "La0.6Ca0.4CoO3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002841",
+        "name": "Lewis acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910006877",
+        "name": "Li1+xMxTi2-x(PO4)3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910006882",
+        "name": "Li1+xMxTi2\u2212x(PO4)3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910007076",
+        "name": "Li1+xZr2SixP3-xO12",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910007085",
+        "name": "Li1+xZr2SixP3\u2212xO12",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001323",
+        "name": "Li2O2",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910002097",
+        "name": "Lithium manganese(III,IV) oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910002651",
+        "name": "NO3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910017549",
+        "name": "NdCaMnFeO3",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052779",
+        "name": "Neodymium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NHNBFGGVMKEFGY-UHFFFAOYSA-N",
+        "name": "Nitrate",
+        "domain": "Chemical compound",
+        "smiles": "[O-][N+]([O-])=O",
+        "inchi_key": "NHNBFGGVMKEFGY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004698",
+        "name": "Polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004743",
+        "name": "Polypropylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZLMJMSJWJFRBEC-UHFFFAOYSA-N",
+        "name": "Potassium",
+        "domain": "Chemical compound",
+        "smiles": "[K]",
+        "inchi_key": "ZLMJMSJWJFRBEC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052772",
+        "name": "Samarium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KEAYESYHFKHZAL-UHFFFAOYSA-N",
+        "name": "Sodium",
+        "domain": "Chemical compound",
+        "smiles": "[Na]",
+        "inchi_key": "KEAYESYHFKHZAL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002250",
+        "name": "absorbent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002745",
+        "name": "absorbent",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000956",
+        "name": "alloy",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910045601",
+        "name": "alloy",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000000129",
+        "name": "anionic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007864",
+        "name": "aqueous solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SLSPYQCCSCAKIB-UHFFFAOYSA-N",
+        "name": "bis(1,1,2,2,2-pentafluoroethylsulfonyl)azanide",
+        "domain": "Chemical compound",
+        "smiles": "FC(F)(F)C(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)C(F)(F)F",
+        "inchi_key": "SLSPYQCCSCAKIB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006182",
+        "name": "cathode active material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003518",
+        "name": "caustics",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004020",
+        "name": "conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005336",
+        "name": "cracking",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000354",
+        "name": "decomposition reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002950",
+        "name": "deficient",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IEJIGPNLZYLLBP-UHFFFAOYSA-N",
+        "name": "dimethyl carbonate",
+        "domain": "Chemical compound",
+        "smiles": "COC(=O)OC",
+        "inchi_key": "IEJIGPNLZYLLBP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001882",
+        "name": "dioxygen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002019",
+        "name": "doping agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007772",
+        "name": "electrode material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000909",
+        "name": "electrodialysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002148",
+        "name": "esters",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002803",
+        "name": "fossil fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007731",
+        "name": "hot pressing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004679",
+        "name": "hydroxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002596",
+        "name": "lactones",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000007517",
+        "name": "lewis acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011244",
+        "name": "liquid electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MHCFAGZWMAWTNR-UHFFFAOYSA-M",
+        "name": "lithium perchlorate",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[O-]Cl(=O)(=O)=O",
+        "inchi_key": "MHCFAGZWMAWTNR-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001486",
+        "name": "lithium perchlorate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MCVFFRWZNYZUIJ-UHFFFAOYSA-M",
+        "name": "lithium;trifluoromethanesulfonate",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[O-]S(=O)(=O)C(F)(F)F",
+        "inchi_key": "MCVFFRWZNYZUIJ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000000",
+        "name": "metal hydroxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001463",
+        "name": "metal phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007935",
+        "name": "neutral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052758",
+        "name": "niobium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011255",
+        "name": "nonaqueous electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005486",
+        "name": "organic electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VLTRZXGMWDSKGL-UHFFFAOYSA-M",
+        "name": "perchlorate",
+        "domain": "Inorganic materials",
+        "smiles": "[O-]Cl(=O)(=O)=O",
+        "inchi_key": "VLTRZXGMWDSKGL-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VLTRZXGMWDSKGL-UHFFFAOYSA-N",
+        "name": "perchloric acid",
+        "domain": "Chemical compound",
+        "smiles": "OCl(=O)(=O)=O",
+        "inchi_key": "VLTRZXGMWDSKGL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003023",
+        "name": "plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000573",
+        "name": "polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005518",
+        "name": "polymer electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001155",
+        "name": "polypropylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011591",
+        "name": "potassium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000843",
+        "name": "powder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002244",
+        "name": "precipitate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001376",
+        "name": "precipitating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001556",
+        "name": "precipitation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+        "name": "propan-1-ol",
+        "domain": "Chemical compound",
+        "smiles": "CCCO",
+        "inchi_key": "BDERNNFJNOPAEC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000376",
+        "name": "reactant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011829",
+        "name": "room temperature ionic liquid solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007788",
+        "name": "roughening",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007086",
+        "name": "side reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "159000000000",
+        "name": "sodium salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010935",
+        "name": "stainless steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001220",
+        "name": "stainless steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "HXJUTPCZVOIRIF-UHFFFAOYSA-N",
+        "name": "sulfolane",
+        "domain": "Chemical class",
+        "smiles": "O=S1(=O)CCCC1",
+        "inchi_key": "HXJUTPCZVOIRIF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003462",
+        "name": "sulfoxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010345",
+        "name": "tape casting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZUHZGEOKBKGPSW-UHFFFAOYSA-N",
+        "name": "tetraglyme",
+        "domain": "Chemical compound",
+        "smiles": "COCCOCCOCCOCCOC",
+        "inchi_key": "ZUHZGEOKBKGPSW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ITMCEJHCFYSIIV-UHFFFAOYSA-N",
+        "name": "triflic acid",
+        "domain": "Chemical compound",
+        "smiles": "OS(=O)(=O)C(F)(F)F",
+        "inchi_key": "ITMCEJHCFYSIIV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}
