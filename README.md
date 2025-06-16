@@ -69,10 +69,6 @@ pip install -r requirements.txt
 
 ---
 
-Here's your content formatted in **README.md** style with Markdown syntax:
-
----
-
 ## ⚙️ Configuration
 
 ### 🔐 Environment Variables (Optional)
